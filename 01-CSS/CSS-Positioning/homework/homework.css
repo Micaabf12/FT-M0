@@ -62,7 +62,4 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     justify-content: center;
     align-items: center;
 
-#elementoTres{
-    align-self: flex-end;
-}
 }
